@@ -1,0 +1,5 @@
+Metadata-csv.zip filter=lfs diff=lfs merge=lfs -text
+Metadata.zip filter=lfs diff=lfs merge=lfs -text
+Review-csv.zip filter=lfs diff=lfs merge=lfs -text
+Review.zip filter=lfs diff=lfs merge=lfs -text
+androzooopen.csv filter=lfs diff=lfs merge=lfs -text
