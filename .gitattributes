@@ -1,3 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 Metadata-csv.zip filter=lfs diff=lfs merge=lfs -text
 Metadata.zip filter=lfs diff=lfs merge=lfs -text
 Review-csv.zip filter=lfs diff=lfs merge=lfs -text
